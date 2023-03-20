@@ -1,2 +1,3 @@
 # OSDC_training
-My firdt repo
+My first repo
+I am dding a new line of code
